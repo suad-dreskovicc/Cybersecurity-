@@ -1,4 +1,4 @@
-<img width="" height="100" alt="aa4066a6-f84f-4891-9d48-58c94ff4382c" src="https://github.com/user-attachments/assets/a695ded4-b65b-4e11-9171-18c0e6b1dffc" />
+<img width="" height="500" alt="aa4066a6-f84f-4891-9d48-58c94ff4382c" src="https://github.com/user-attachments/assets/a695ded4-b65b-4e11-9171-18c0e6b1dffc" />
 
 <h3 align="center">Cybersecurity Professional — SOC | Detection Engineering | IAM</h3>
 
