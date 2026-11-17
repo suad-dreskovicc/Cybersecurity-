@@ -54,5 +54,5 @@ Security+ In Progress - 11/2026
 
 ## 📫 Connect With Me
 
-[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 **LinkedIn:** https://www.linkedin.com/in/suadreskovic/
