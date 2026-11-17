@@ -1,293 +1,69 @@
-<!-- ===================================== -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Jose%20A.%20Rodriguez%20Calcano&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Portfolio&descSize=18&descAlignY=56)
 
-<!--           MAIN PROFILE BANNER          -->
-
-<!-- ===================================== -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f3b65,100:06b6d4&height=230&section=header&text=SUAD%20DRESKOVIC&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=CYBERSECURITY%20%7C%20GRC%20%7C%20RISK%20MANAGEMENT&descSize=15&descAlignY=72" width="100%" />
-</div>
-
-<h3 align="center">🛡️ Aspiring Cybersecurity Professional | Information Security | Governance, Risk & Compliance</h3>
+<h3 align="center">Cybersecurity Professional — SOC | Detection Engineering | IAM</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Specialty-GRC-0891B2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Cyber%20Range-2563EB?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/jose-rodriguez-calcano/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:jose.rodriguezcalc646@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Based_in-United_States-2c5364?style=for-the-badge" alt="United States"/>
 </p>
 
-<!-- ABOUT ME -->
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=01%20%7C%20ABOUT%20ME&fontSize=23&fontColor=ffffff" width="100%"/>
+## 👨🏽‍💻 About Me
 
-<table>
-<tr>
-<td>
+Cybersecurity professional with experience across **security operations and IT** — including incident response, identity & access management, vulnerability management, and SIEM monitoring in regulated environments. I focus on translating security concepts into practical, real-world defense: better visibility, faster detection, and reduced risk across systems and networks.
 
-👋 Welcome to My Cybersecurity Portfolio!
+- 🔭 **Currently:** Cybersecurity Professional working in **security operations**
+- 💼 **Background:** Security operations and IT — SOC work, service desk, and systems support
+- ⚙️ **Engineering focus:** Detection engineering, log analysis, and network security — **CCNA in progress**
+- 🌎 **Bilingual:** English / Spanish
 
-My name is Suad Dreskovic. I am an aspiring cybersecurity professional with an academic background in Criminal Justice and Public Administration, specializing in Investigation & Inspection Oversight.
+---
 
-I am currently expanding my knowledge through hands-on cybersecurity training, virtual Cyber Range environments, and practical technical exercises.
+## 🗂️ Portfolio Projects
 
-My professional interests include information security, vulnerability management, digital forensics, risk assessment, and Governance, Risk & Compliance (GRC).
+### ⚠️ Vulnerability Management
 
-My objective is to combine my academic foundation in investigations, regulatory oversight, and compliance with practical technical cybersecurity skills.
+| Project | What it demonstrates | Status |
+|---|---|---|
+| **Vulnerability Management Program Implementation** | Standing up a full vuln management lifecycle — scanning, prioritization, remediation tracking | 🚧 In progress |
+| **Programmatic Vulnerability Remediations** | Fixing vulnerabilities at scale with PowerShell, Bash, and shell commands | 🚧 In progress |
 
-</td>
-</tr>
-</table>
+### 🕵️ Threat Hunting & SecOps
 
-<!-- EDUCATION -->
+| Project | What it demonstrates | Status |
+|---|---|---|
+| **Threat Hunting Scenario — Unwanted Software (TOR)** | Hunting for unauthorized anonymity software on endpoints | 🚧 In progress |
+| **Threat Hunt for IOCs — Intelligence Correlation** | Pivoting on indicators of compromise and correlating threat intel | 🚧 In progress |
+| **Microsoft Sentinel & MDE Detection Rule Setup** | Building analytics rules across Sentinel and Defender for Endpoint | 🚧 In progress |
+| **Impossible Travel Detection Rule (Sentinel / KQL)** | KQL detection for geo-anomalous sign-ins, tuned against false positives | 🚧 In progress |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=02%20%7C%20EDUCATION&fontSize=23&fontColor=ffffff" width="100%"/>
+> Project links and full write-ups are being added as each build is completed.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-🎓 Master's Degree
+## 📜 Certifications
 
-Master of Public Administration (MPA)
+![SSCP](https://img.shields.io/badge/(ISC)%C2%B2-SSCP-003366?style=flat-square)
+![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-CC0000?style=flat-square&logo=comptia&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-CC0000?style=flat-square&logo=comptia&logoColor=white)
+![Network+](https://img.shields.io/badge/CompTIA-Network%2B-CC0000?style=flat-square&logo=comptia&logoColor=white)
+![Microsoft AI](https://img.shields.io/badge/Microsoft-AI_Business_Professional-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![CCNA](https://img.shields.io/badge/Cisco-CCNA_(In_Progress)-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
-Concentration:
-Investigation & Inspection Oversight
+- **(ISC)² SSCP** · **CompTIA CySA+** · **CompTIA Security+** · **CompTIA Network+**
+- **Microsoft AI Business Professional**
+- **Cisco CCNA** — in progress
+- **B.S. Cybersecurity** — Miami Dade College
 
-</td>
-<td width="50%" valign="top">
+---
 
-🎓 Bachelor's Degree
+## 📫 Connect With Me
 
-Bachelor's Degree in Criminal Justice
+[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+**LinkedIn:** [linkedin.com/in/jose-rodriguez-calcano](https://www.linkedin.com/in/jose-rodriguez-calcano/)
 
-Academic foundation in:
+[linkedin]: https://www.linkedin.com/in/jose-rodriguez-calcano/
 
-Investigations
-
-Criminal Justice
-
-Public Safety
-
-Regulatory Oversight
-
-</td>
-</tr>
-</table>
-
-<!-- CERTIFICATIONS -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=03%20%7C%20CERTIFICATIONS%20%26%20TRAINING&fontSize=21&fontColor=ffffff" width="100%"/>
-
-<table>
-<tr>
-<td>
-
-🏅 Google Cybersecurity Professional Certificate
-
-📘 Foundations of Governance, Risk & Compliance – Coursera
-
-💻 Ongoing Cyber Range Training & Hands-On Labs
-
-</td>
-</tr>
-</table>
-
-<!-- CYBER RANGE -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=04%20%7C%20CYBER%20RANGE%20%26%20HANDS-ON%20LEARNING&fontSize=19&fontColor=ffffff" width="100%"/>
-
-<table>
-<tr>
-<td>
-
-🔍 Vulnerability Management
-
-Configuring Tenable network scans
-
-Identifying system vulnerabilities
-
-Reviewing vulnerability findings
-
-Exploring compliance plugins
-
-🖥️ Windows Security
-
-Windows security configurations
-
-System hardening
-
-SMBv1 and SMBv2 security
-
-Security controls and configurations
-
-🛡️ Microsoft Security
-
-Microsoft Defender for Endpoint
-
-Endpoint security concepts
-
-Security event investigation
-
-Endpoint protection
-
-🔬 Digital Forensics & Incident Response
-
-DFIR fundamentals
-
-Endpoint investigation
-
-Security log analysis
-
-Identifying potential indicators of compromise
-
-📊 Governance, Risk & Compliance
-
-Security policies
-
-Risk assessments
-
-Regulatory compliance
-
-Security controls and frameworks
-
-</td>
-</tr>
-</table>
-
-<!-- TECHNOLOGY STACK -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=05%20%7C%20TOOLS%20%26%20TECHNOLOGIES&fontSize=21&fontColor=ffffff" width="100%"/>
-
-<table>
-<tr>
-<td align="center">
-
-Security Tools
-
-<img src="https://img.shields.io/badge/Tenable-00A3E0?style=for-the-badge&logo=tenable&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-Operating Systems & Infrastructure
-
-<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Virtual%20Machines-2563EB?style=for-the-badge"/>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-Cybersecurity Disciplines
-
-<img src="https://img.shields.io/badge/DFIR-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GRC-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Risk%20Management-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Compliance-0369A1?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
-
-<!-- PROJECTS -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=06%20%7C%20CYBERSECURITY%20PROJECTS&fontSize=21&fontColor=ffffff" width="100%"/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🔎 Tenable Vulnerability Scanning
-
-Documenting network scan configuration, vulnerability identification, and security findings.
-
-</td>
-<td width="50%" valign="top">
-
-🖥️ Windows Security Hardening
-
-Exploring Windows security settings, SMB configurations, and system hardening.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🔬 DFIR Investigations
-
-Learning endpoint investigation, log analysis, and incident response techniques.
-
-</td>
-<td width="50%" valign="top">
-
-📋 GRC & Risk Assessments
-
-Developing knowledge of compliance requirements, risk management, and security controls.
-
-</td>
-</tr>
-</table>
-
-Additional projects and lab documentation will be added as I progress through my Cyber Range training.
-
-<!-- CAREER OBJECTIVES -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=07%20%7C%20CAREER%20INTERESTS&fontSize=21&fontColor=ffffff" width="100%"/>
-
-<table>
-<tr>
-<td>
-
-🎯 Cybersecurity Analyst
-
-🛡️ Governance, Risk & Compliance (GRC) Analyst
-
-🔐 Information Security Analyst
-
-🔍 Vulnerability Management
-
-📊 Security Compliance & Auditing
-
-🚨 Security Operations & Incident Response
-
-</td>
-</tr>
-</table>
-
-<!-- CONTACT -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=08%20%7C%20LET'S%20CONNECT&fontSize=23&fontColor=ffffff" width="100%"/>
-
-<table>
-<tr>
-<td align="center">
-
-🤝 Professional Networking
-
-I'm always interested in connecting with cybersecurity professionals, recruiters, mentors, and fellow learners.
-
-<br/>
-
-📍 Location: Open to Remote Opportunities
-
-💼 LinkedIn: Connect With Me
-
-📧 Email: YOUR-PROFESSIONAL-EMAIL
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-🌱 Stay Curious. Keep Learning. Stay Secure.
-
-Building my cybersecurity knowledge one lab, one project, and one challenge at a time.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f3b65,100:06b6d4&height=120&section=footer"/>
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer)
