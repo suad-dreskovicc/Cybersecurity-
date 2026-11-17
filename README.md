@@ -56,5 +56,3 @@ Cybersecurity professional with experience across **security operations and IT**
 
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 **LinkedIn:** [https://www.linkedin.com/in/suadreskovic/]
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer)
