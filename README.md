@@ -17,7 +17,7 @@ Cybersecurity professional with experience across **security operations and IT**
 - 🔭 **Currently:** Cybersecurity Professional working in **security operations**
 - 💼 **Background:** Security operations and IT — SOC work, service desk, and systems support
 - ⚙️ **Engineering focus:** Detection engineering, log analysis, and network security — **CCNA in progress**
-- 🌎 **Bilingual:** English / Spanish
+- 🌎 **Bilingual:** English / Serbian / Croatian / Bosnian
 
 ---
 
