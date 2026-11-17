@@ -45,7 +45,7 @@ Cybersecurity professional with experience across **security operations and IT**
 
 ## 📜 Certifications
 
-![Security+] In Progress - 11/2026
+[Security+] In Progress - 11/2026
 
 - **M.P.A** Master in Public Administration - Inspection & Oversight - Dual Concentration: Investigations & Operational Inspection & Independent Contractual Inspection & Oversight  — The City University of New York - John Jay College of Criminal Justice
 - **B.S** Criminal Justice - The City University of New York - John Jay College of Criminal Justice
