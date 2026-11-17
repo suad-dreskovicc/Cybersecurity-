@@ -45,24 +45,17 @@ Cybersecurity professional with experience across **security operations and IT**
 
 ## 📜 Certifications
 
-![SSCP](https://img.shields.io/badge/(ISC)%C2%B2-SSCP-003366?style=flat-square)
-![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-CC0000?style=flat-square&logo=comptia&logoColor=white)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-CC0000?style=flat-square&logo=comptia&logoColor=white)
-![Network+](https://img.shields.io/badge/CompTIA-Network%2B-CC0000?style=flat-square&logo=comptia&logoColor=white)
-![Microsoft AI](https://img.shields.io/badge/Microsoft-AI_Business_Professional-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![CCNA](https://img.shields.io/badge/Cisco-CCNA_(In_Progress)-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Security+] In Progress - 11/2026
 
-- **(ISC)² SSCP** · **CompTIA CySA+** · **CompTIA Security+** · **CompTIA Network+**
-- **Microsoft AI Business Professional**
-- **Cisco CCNA** — in progress
-- **B.S. Cybersecurity** — Miami Dade College
+- **M.P.A** Master in Public Administration - Inspection & Oversight - Dual Concentration: Investigations & Operational Inspection & Independent Contractual Inspection & Oversight  — The City University of New York - John Jay College of Criminal Justice
+- **B.S** Criminal Justice - The City University of New York - John Jay College of Criminal Justice
 
 ---
 
 ## 📫 Connect With Me
 
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-**LinkedIn:** [linkedin.com/in/jose-rodriguez-calcano](https://www.linkedin.com/in/jose-rodriguez-calcano/)
+**LinkedIn:** [https://www.linkedin.com/in/suadreskovic/]
 
 [linkedin]: https://www.linkedin.com/in/jose-rodriguez-calcano/
 
