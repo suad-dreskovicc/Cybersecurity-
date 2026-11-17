@@ -17,7 +17,7 @@ Cybersecurity professional with experience across **security operations and IT**
 - 🔭 **Currently:** Cybersecurity Professional working in **security operations**
 - 💼 **Background:** Security operations and IT — SOC work, service desk, and systems support
 - ⚙️ **Engineering focus:** Detection engineering, log analysis, and network security — **CCNA in progress**
-- 🌎 **Bilingual:** English / Spanish
+- 🌎 **Bilingual:** English / Serbian / Bosnian / Croatian
 
 ---
 
@@ -43,27 +43,11 @@ Cybersecurity professional with experience across **security operations and IT**
 
 ---
 
-## 📜 Certifications
-
-![SSCP](https://img.shields.io/badge/(ISC)%C2%B2-SSCP-003366?style=flat-square)
-![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-CC0000?style=flat-square&logo=comptia&logoColor=white)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-CC0000?style=flat-square&logo=comptia&logoColor=white)
-![Network+](https://img.shields.io/badge/CompTIA-Network%2B-CC0000?style=flat-square&logo=comptia&logoColor=white)
-![Microsoft AI](https://img.shields.io/badge/Microsoft-AI_Business_Professional-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![CCNA](https://img.shields.io/badge/Cisco-CCNA_(In_Progress)-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-- **(ISC)² SSCP** · **CompTIA CySA+** · **CompTIA Security+** · **CompTIA Network+**
-- **Microsoft AI Business Professional**
-- **Cisco CCNA** — in progress
-- **B.S. Cybersecurity** — Miami Dade College
-
----
-
 ## 📫 Connect With Me
 
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-**LinkedIn:** [linkedin.com/in/jose-rodriguez-calcano](https://www.linkedin.com/in/jose-rodriguez-calcano/)
+**LinkedIn:** [[linkedin.com/in/jose-rodriguez-calcano](https://www.linkedin.com/in/jose-rodriguez-calcano/](https://www.linkedin.com/in/suadreskovic/))
 
-[linkedin]: https://www.linkedin.com/in/jose-rodriguez-calcano/
+[linkedin]: [https://www.linkedin.com/in/jose-rodriguez-calcano/]
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer)
