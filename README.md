@@ -44,8 +44,6 @@ Cybersecurity professional with experience across **security operations and IT**
 ---
 
 ## 📜 Certifications
-
-📜 Certifications & Professional Development:
 Google Cybersecurity Professional Certificate
 Foundations of Governance, Risk, and Compliance – Coursera
 Ongoing hands-on cybersecurity and Cyber Range training
