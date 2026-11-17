@@ -1,24 +1,86 @@
-👋 Hello, I'm Suad Dreskovic!
+<!-- ===================================== -->
 
-🛡️ Aspiring Cybersecurity Professional | GRC | Risk Management | Information Security
+<!--           MAIN PROFILE BANNER          -->
 
-Welcome to my cybersecurity portfolio! I'm passionate about understanding how organizations protect their systems, manage security risks, and maintain regulatory compliance.
+<!-- ===================================== -->
 
-With an academic background in Criminal Justice and Public Administration, I am combining my experience and knowledge of investigations, oversight, and compliance with hands-on technical cybersecurity training.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0f3b65,100:06b6d4&height=230&section=header&text=SUAD%20DRESKOVIC&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=CYBERSECURITY%20%7C%20GRC%20%7C%20RISK%20MANAGEMENT&descSize=15&descAlignY=72" width="100%" />
+</div>
 
-My goal is to bridge the gap between technical cybersecurity and Governance, Risk & Compliance (GRC).
+<h3 align="center">🛡️ Aspiring Cybersecurity Professional | Information Security | Governance, Risk & Compliance</h3>
 
-🎓 Education
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Specialty-GRC-0891B2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Cyber%20Range-2563EB?style=for-the-badge"/>
+</p>
 
-🎓 Master of Public Administration (MPA)
+<!-- ABOUT ME -->
 
-Concentration: Investigation & Inspection Oversight
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=01%20%7C%20ABOUT%20ME&fontSize=23&fontColor=ffffff" width="100%"/>
 
-🎓 Bachelor's Degree in Criminal Justice
+<table>
+<tr>
+<td>
 
-My academic background has helped me develop an understanding of investigations, regulatory oversight, risk assessment, policy development, and organizational accountability.
+👋 Welcome to My Cybersecurity Portfolio!
 
-📜 Certifications & Professional Development
+My name is Suad Dreskovic. I am an aspiring cybersecurity professional with an academic background in Criminal Justice and Public Administration, specializing in Investigation & Inspection Oversight.
+
+I am currently expanding my knowledge through hands-on cybersecurity training, virtual Cyber Range environments, and practical technical exercises.
+
+My professional interests include information security, vulnerability management, digital forensics, risk assessment, and Governance, Risk & Compliance (GRC).
+
+My objective is to combine my academic foundation in investigations, regulatory oversight, and compliance with practical technical cybersecurity skills.
+
+</td>
+</tr>
+</table>
+
+<!-- EDUCATION -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=02%20%7C%20EDUCATION&fontSize=23&fontColor=ffffff" width="100%"/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🎓 Master's Degree
+
+Master of Public Administration (MPA)
+
+Concentration:
+Investigation & Inspection Oversight
+
+</td>
+<td width="50%" valign="top">
+
+🎓 Bachelor's Degree
+
+Bachelor's Degree in Criminal Justice
+
+Academic foundation in:
+
+Investigations
+
+Criminal Justice
+
+Public Safety
+
+Regulatory Oversight
+
+</td>
+</tr>
+</table>
+
+<!-- CERTIFICATIONS -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=03%20%7C%20CERTIFICATIONS%20%26%20TRAINING&fontSize=21&fontColor=ffffff" width="100%"/>
+
+<table>
+<tr>
+<td>
 
 🏅 Google Cybersecurity Professional Certificate
 
@@ -26,120 +88,206 @@ My academic background has helped me develop an understanding of investigations,
 
 💻 Ongoing Cyber Range Training & Hands-On Labs
 
-🔐 What I'm Currently Learning
+</td>
+</tr>
+</table>
 
-I believe cybersecurity is best learned through practical experience. I'm actively developing my technical knowledge through virtual Cyber Range environments and hands-on exercises.
+<!-- CYBER RANGE -->
 
-Area
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=04%20%7C%20CYBER%20RANGE%20%26%20HANDS-ON%20LEARNING&fontSize=19&fontColor=ffffff" width="100%"/>
 
-Skills & Technologies
+<table>
+<tr>
+<td>
 
-Vulnerability Management
+🔍 Vulnerability Management
 
-Tenable, vulnerability assessments
+Configuring Tenable network scans
 
-Network Security
+Identifying system vulnerabilities
 
-Network scanning, ports, protocols
+Reviewing vulnerability findings
 
-Windows Security
+Exploring compliance plugins
 
-System hardening, security configurations
+🖥️ Windows Security
 
-Microsoft Security
+Windows security configurations
 
-Microsoft Defender, endpoint protection
+System hardening
 
-Digital Forensics
+SMBv1 and SMBv2 security
 
-DFIR, endpoint investigations
+Security controls and configurations
 
-Log Analysis
+🛡️ Microsoft Security
 
-Security events, log investigation
+Microsoft Defender for Endpoint
 
-GRC
+Endpoint security concepts
 
-Risk assessments, compliance, security policies
+Security event investigation
 
-System Security
+Endpoint protection
 
-SMB configurations, security controls
+🔬 Digital Forensics & Incident Response
 
-🧪 My Cyber Range & Practical Projects
+DFIR fundamentals
 
-Here are some of the areas I'm exploring and documenting as I progress:
+Endpoint investigation
 
-🔍 Configuring Tenable network vulnerability scans.
+Security log analysis
 
-🛡️ Identifying vulnerabilities and reviewing security findings.
+Identifying potential indicators of compromise
 
-🖥️ Configuring Windows security settings and system hardening.
+📊 Governance, Risk & Compliance
 
-🔒 Understanding SMBv1 and SMBv2 security configurations.
+Security policies
 
-📊 Investigating endpoint activity and security logs.
+Risk assessments
 
-🔬 Exploring Microsoft Defender for Endpoint (MDE).
+Regulatory compliance
 
-📋 Learning risk assessments and security compliance practices.
+Security controls and frameworks
 
-🚨 Exploring digital forensics and incident response (DFIR).
+</td>
+</tr>
+</table>
 
-This portfolio will continue to grow as I complete additional labs and practical exercises.
+<!-- TECHNOLOGY STACK -->
 
-🧰 Technologies & Tools
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=05%20%7C%20TOOLS%20%26%20TECHNOLOGIES&fontSize=21&fontColor=ffffff" width="100%"/>
 
-Security & Vulnerability Management
+<table>
+<tr>
+<td align="center">
 
-Tenable Microsoft Defender Vulnerability Assessment
+Security Tools
 
-Operating Systems & Networking
+<img src="https://img.shields.io/badge/Tenable-00A3E0?style=for-the-badge&logo=tenable&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
-Windows Virtual Machines SMB Network Security
+</td>
+</tr>
+<tr>
+<td align="center">
+
+Operating Systems & Infrastructure
+
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Virtual%20Machines-2563EB?style=for-the-badge"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
 
 Cybersecurity Disciplines
 
-DFIR GRC Risk Management Compliance Incident Response
+<img src="https://img.shields.io/badge/DFIR-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GRC-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Risk%20Management-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Compliance-0369A1?style=for-the-badge"/>
 
-🎯 Career Interests
+</td>
+</tr>
+</table>
 
-I'm working toward opportunities in:
+<!-- PROJECTS -->
 
-Cybersecurity Analysis
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=06%20%7C%20CYBERSECURITY%20PROJECTS&fontSize=21&fontColor=ffffff" width="100%"/>
 
-Governance, Risk & Compliance (GRC)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Information Security
+🔎 Tenable Vulnerability Scanning
 
-Vulnerability Management
+Documenting network scan configuration, vulnerability identification, and security findings.
 
-Security Compliance & Auditing
+</td>
+<td width="50%" valign="top">
 
-Risk Assessment
+🖥️ Windows Security Hardening
 
-Security Operations
+Exploring Windows security settings, SMB configurations, and system hardening.
 
-I'm particularly interested in positions where I can combine my educational background in investigations and regulatory oversight with my developing technical cybersecurity skills.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-🌱 My Philosophy
+🔬 DFIR Investigations
 
-Stay curious. Keep learning. Never stop improving.
+Learning endpoint investigation, log analysis, and incident response techniques.
 
-Cybersecurity is constantly evolving, and I believe becoming a strong security professional requires continuous learning, practical experience, attention to detail, and the ability to think critically.
+</td>
+<td width="50%" valign="top">
 
-I'm committed to developing both the technical and analytical skills necessary to contribute to the cybersecurity industry.
+📋 GRC & Risk Assessments
 
-🤝 Let's Connect!
+Developing knowledge of compliance requirements, risk management, and security controls.
 
-I'm always interested in connecting with cybersecurity professionals, recruiters, mentors, and others who share an interest in information security.
+</td>
+</tr>
+</table>
+
+Additional projects and lab documentation will be added as I progress through my Cyber Range training.
+
+<!-- CAREER OBJECTIVES -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=07%20%7C%20CAREER%20INTERESTS&fontSize=21&fontColor=ffffff" width="100%"/>
+
+<table>
+<tr>
+<td>
+
+🎯 Cybersecurity Analyst
+
+🛡️ Governance, Risk & Compliance (GRC) Analyst
+
+🔐 Information Security Analyst
+
+🔍 Vulnerability Management
+
+📊 Security Compliance & Auditing
+
+🚨 Security Operations & Incident Response
+
+</td>
+</tr>
+</table>
+
+<!-- CONTACT -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3b65,100:06b6d4&height=55&section=header&text=08%20%7C%20LET'S%20CONNECT&fontSize=23&fontColor=ffffff" width="100%"/>
+
+<table>
+<tr>
+<td align="center">
+
+🤝 Professional Networking
+
+I'm always interested in connecting with cybersecurity professionals, recruiters, mentors, and fellow learners.
+
+<br/>
 
 📍 Location: Open to Remote Opportunities
 
-💼 LinkedIn: Connect with me on LinkedIn
+💼 LinkedIn: Connect With Me
 
-📧 Email: Add your professional email here
+📧 Email: YOUR-PROFESSIONAL-EMAIL
 
-⭐ Thanks for visiting my profile!
+</td>
+</tr>
+</table>
 
-Feel free to follow my journey as I continue building my cybersecurity knowledge and professional portfolio.
+<div align="center">
+
+🌱 Stay Curious. Keep Learning. Stay Secure.
+
+Building my cybersecurity knowledge one lab, one project, and one challenge at a time.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f3b65,100:06b6d4&height=120&section=footer"/>
+
+</div>
