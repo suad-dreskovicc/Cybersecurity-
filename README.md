@@ -1,6 +1,5 @@
  <img width="" height="300" alt="aa4066a6-f84f-4891-9d48-58c94ff4382c" src="https://github.com/user-attachments/assets/a695ded4-b65b-4e11-9171-18c0e6b1dffc" />
-
-   <h3 align="center">Cybersecurity Professional — SOC | Detection Engineering | IAM</h3>
+ <h3 align="center">Cybersecurity Professional — SOC | Detection Engineering | IAM</h3>
 
 <p align="centerrightrightright">
   <a href="[(https://www.linkedin.com/in/suadreskovic/)"]><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
