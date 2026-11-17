@@ -45,6 +45,10 @@ Cybersecurity professional with experience across **security operations and IT**
 
 ## 📜 Certifications
 
+📜 Certifications & Professional Development:
+Google Cybersecurity Professional Certificate
+Foundations of Governance, Risk, and Compliance – Coursera
+Ongoing hands-on cybersecurity and Cyber Range training
 Security+ In Progress - 11/2026
 
 - **M.P.A** Master in Public Administration - Inspection & Oversight - Dual Concentration: Investigations & Operational Inspection & Independent Contractual Inspection & Oversight  — The City University of New York - John Jay College of Criminal Justice
