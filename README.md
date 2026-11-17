@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Jose%20A.%20Rodriguez%20Calcano&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Portfolio&descSize=18&descAlignY=56)
+<img width="2048" height="768" alt="aa4066a6-f84f-4891-9d48-58c94ff4382c" src="https://github.com/user-attachments/assets/a695ded4-b65b-4e11-9171-18c0e6b1dffc" />
 
 <h3 align="center">Cybersecurity Professional — SOC | Detection Engineering | IAM</h3>
 
