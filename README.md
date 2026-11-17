@@ -9,9 +9,27 @@
 
 ---
 
-## 👨🏽‍💻 About Me
+## 👨🏽‍💻 About Me - Suad Dreskovic
 
-Cybersecurity professional with experience across **security operations and IT** — including incident response, identity & access management, vulnerability management, and SIEM monitoring in regulated environments. I focus on translating security concepts into practical, real-world defense: better visibility, faster detection, and reduced risk across systems and networks.
+Areas I am currently exploring and developing skills in include:
+
+Vulnerability Management: Performing vulnerability assessments and learning to identify security weaknesses.
+
+Tenable: Configuring network scans, exploring vulnerability findings, and working with compliance plugins.
+
+Microsoft Security: Learning about Microsoft Defender and endpoint security concepts.
+
+Windows Security: Exploring Windows security configurations, system hardening, and security controls.
+
+Network Security: Understanding network protocols, ports, services, and common security vulnerabilities.
+
+SMB Security: Learning about SMBv1/SMBv2, identifying security risks, and disabling insecure configurations.
+
+Digital Forensics & Incident Response (DFIR): Exploring endpoint investigation, security logs, and identifying indicators of potential compromise.
+
+Log Analysis: Learning how to investigate system activity and analyze security-related events.
+
+Governance, Risk & Compliance (GRC): Exploring security policies, risk assessments, regulatory requirements, and compliance frameworks.
 
 - 🔭 **Currently:** Cybersecurity Professional working in **security operations**
 - 💼 **Background:** Security operations and IT — SOC work, service desk, and systems support
