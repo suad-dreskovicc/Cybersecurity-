@@ -1,1 +1,17 @@
+Group Policy objects must be reprocessed even if they have not changed.
+STIG ID: WN11-CC-000090  |  SRG: SRG-OS-000480-GPOS-00227 |  Severity: medium (CAT II)  |  CCI: CCI-000366 |  Vulnerability Id: V-253373
+
+Vulnerability Discussion
+Enabling this setting and then selecting the "Process even if the Group Policy objects have not changed" option ensures that the policies will be reprocessed even if none have been changed. This way, any unauthorized changes are forced to match the domain-based group policy settings again.
+Check
+If the following registry value does not exist or is not configured as specified, this is a finding:
+
+Registry Hive: HKEY_LOCAL_MACHINE
+Registry Path: \SOFTWARE\Policies\Microsoft\Windows\Group Policy\{35378EAC-683F-11D2-A89A-00C04FBBCFA2}
+
+Value Name: NoGPOListChanges
+
+Value Type: REG_DWORD
+Value: 0
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
