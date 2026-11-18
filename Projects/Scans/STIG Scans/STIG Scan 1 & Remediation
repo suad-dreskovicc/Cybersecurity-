@@ -16,7 +16,7 @@ DISA_STIG_Microsoft_Windows_11_v2r11.audit
 
 Policy Value
 [32768..4294967295]
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 .SYNOPSIS
     This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
 
