@@ -88,10 +88,11 @@ Hands-on labs in a safe, authorized environment where I build, break, detect, an
 
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft-Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Defender for Endpoint](https://img.shields.io/badge/Microsoft-Defender_for_Endpoint-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Tenable](https://img.shields.io/badge/Vulnerability_Scanning-Tenable-00A3E0?style=flat-square&logo=tenable&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![KQL](https://img.shields.io/badge/Query-KQL-1b4d57?style=flat-square)
+![SQL](https://img.shields.io/badge/Query-SQL-4479A1?style=flat-square)
 ![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Scripting-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability-Scanning-C8202F?style=flat-square)
 
 ---
 
