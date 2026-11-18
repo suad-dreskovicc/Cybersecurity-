@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Aspiring Cybersecurity Professional — GRC | Risk & Compliance | Detection</h3>
+<h3 align="center">Cybersecurity Analyst in Training — SOC | Threat Hunting | Detection Engineering | GRC</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
