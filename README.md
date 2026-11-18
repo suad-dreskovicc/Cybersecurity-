@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.svg" alt="Suad Dreskovic - Cybersecurity Portfolio" width="100%">
-</p>
+
 
 <h3 align="center">Aspiring Cybersecurity Professional — GRC | Risk & Compliance | Detection</h3>
 
