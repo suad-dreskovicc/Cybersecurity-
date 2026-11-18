@@ -17,8 +17,8 @@
 .TESTED ON
     Date(s) Tested  : 2026-11-2026
     Tested By       : Suad Dreskovic
-    Systems Tested  : 
-    PowerShell Ver. : 
+    Systems Tested  : Suad-VM-Test (Windows 11 Pro 25H2, Azure, Cyber Range 4)
+    PowerShell Ver. : 5.1
 
 .USAGE
     Put any usage instructions here.
