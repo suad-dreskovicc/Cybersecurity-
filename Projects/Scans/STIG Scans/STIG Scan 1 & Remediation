@@ -39,9 +39,9 @@ Policy Value
     PowerShell Ver. : 5.1
 
 .USAGE
-    Put any usage instructions here.
-    Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
+    Run in an elevated (Administrator) PowerShell on the VM:
+    PS C:\> .\WN11-AU-000500.ps1
+    Then rescan with Tenable ("kk-mde-win11 DISA STIG scan (Win 11)") and confirm WN11-AU-000500 shows Passed.
 #>
 
 # YOUR CODE GOES HERE
