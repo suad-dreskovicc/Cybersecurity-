@@ -1,5 +1,3 @@
-<p align="center"> <img src="banner.svg" alt="Suad Dreskovic - Cybersecurity Portfolio" width="100%"> </p> <h3 align="center">Aspiring Cybersecurity Professional — GRC | Risk & Compliance | Detection</h3> <p align="center"> <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:suadeeeee@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://img.shields.io/badge/BASED_IN-NEW_YORK,_US-1b4d57?style=flat-square" alt="Based in New York"> </p>
-
 <p align="center">
   <img src="banner.svg" alt="Suad Dreskovic - Cybersecurity Portfolio" width="100%">
 </p>
