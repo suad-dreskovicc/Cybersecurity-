@@ -1,4 +1,4 @@
-
+<p align="center"><img src="banner.svg" width="100%" alt="Suad Dreskovic - Cybersecurity Portfolio"></p>
 
 <h3 align="center">Cybersecurity Analyst — SOC | Threat Hunting | Detection Engineering | GRC</h3>
 
