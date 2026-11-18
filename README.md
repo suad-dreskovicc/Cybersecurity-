@@ -6,12 +6,10 @@
       <stop offset="100%" stop-color="#34495a"/>
     </linearGradient>
   </defs>
-
   <!-- main banner with wave bottom -->
   <path d="M0 0 H1000 V185 C860 235 720 150 540 192 C380 228 190 160 0 205 Z" fill="url(#bg)"/>
   <!-- soft second wave for depth -->
   <path d="M0 150 C180 120 330 190 520 165 C700 140 850 190 1000 150 V185 C860 235 720 150 540 192 C380 228 190 160 0 205 Z" fill="#ffffff" fill-opacity="0.05"/>
-
   <text x="500" y="105" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="700" fill="#ffffff">Suad Dreskovic</text>
   <text x="500" y="148" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#e2e8f0">Cybersecurity Portfolio</text>
 </svg>
