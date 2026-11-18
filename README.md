@@ -1,6 +1,6 @@
-<p align="center"> <img src="banner.svg" alt="Suad Dreskovic - Cybersecurity Portfolio" width="800"> </p> <h3 align="center">Cybersecurity Professional in Training — GRC | Threat Hunting | Detection | Vulnerability Management</h3> <p align="center"> <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:suadeeeee@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://img.shields.io/badge/BASED_IN-NEW_YORK,_US-1b4d57?style=flat-square" alt="Based in New York"> </p>
 
-<h3 align="center">Cybersecurity Analyst — SOC | Threat Hunting | Detection Engineering | GRC</h3>
+
+<h3 align="center">Cybersecurity Analyst — SOC | Threat Hunting | Detection Engineering | Vulnerability Management |  GRC</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
