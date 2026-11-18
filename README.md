@@ -1,3 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Suad Dreskovic - Cybersecurity Portfolio">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1622"/>
+      <stop offset="55%" stop-color="#10303a"/>
+      <stop offset="100%" stop-color="#1b4d57"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5eead4"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#2dd4bf" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="300" rx="18" fill="url(#grid)"/>
+
+  <!-- circuit accents -->
+  <g stroke="#2dd4bf" stroke-opacity="0.35" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M0 55 H90 L120 85 H190"/>
+    <path d="M0 245 H70 L100 215 H165"/>
+    <path d="M1000 55 H910 L880 85 H810"/>
+    <path d="M1000 245 H930 L900 215 H835"/>
+  </g>
+  <g fill="#2dd4bf" fill-opacity="0.6">
+    <circle cx="190" cy="85" r="4"/>
+    <circle cx="165" cy="215" r="4"/>
+    <circle cx="810" cy="85" r="4"/>
+    <circle cx="835" cy="215" r="4"/>
+  </g>
+
+  <!-- shield + lock logo -->
+  <g transform="translate(250 0)" filter="url(#glow)">
+    <path d="M0 52 L72 78 V148 C72 200 36 234 0 248 C-36 234 -72 200 -72 148 V78 Z" fill="url(#shield)" stroke="#a7f3d0" stroke-width="3"/>
+    <path d="M0 70 L56 90 V148 C56 188 28 214 0 226 C-28 214 -56 188 -56 148 V90 Z" fill="#0b1622" fill-opacity="0.55"/>
+    <circle cx="0" cy="136" r="17" fill="#5eead4"/>
+    <path d="M-8 148 L8 148 L13 188 L-13 188 Z" fill="#5eead4"/>
+    <circle cx="0" cy="136" r="7" fill="#0b1622"/>
+  </g>
+
+  <!-- text -->
+  <text x="370" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">Suad Dreskovic</text>
+  <rect x="372" y="156" width="380" height="3" fill="url(#line)"/>
+  <text x="372" y="198" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#cbd5e1" letter-spacing="3">CYBERSECURITY PORTFOLIO</text>
+</svg>
 
 <h3 align="center">Cybersecurity Analyst — SOC | Threat Hunting | Detection Engineering | GRC</h3>
 
