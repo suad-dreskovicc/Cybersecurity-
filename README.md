@@ -14,10 +14,10 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Suad Dreskovic**. I'm moving into cybersecurity from a background in **investigations, compliance, and fraud & risk analysis**. I bring a habit of evidence-based reporting, careful record review, and escalating risk early, and I'm now building hands-on security skills in a cyber range.
+Hi, I'm **Suad Dreskovic**. I'm a cybersecurity prospect and come from a background in **Investigations, Compliance, and Fraud & Risk Analysis**. I bring a habit of evidence-based reporting, careful record review, and escalating risk early, and I'm now building hands-on security skills in a Cyber Range.
 
 - 🔭 **Currently:** Learning cybersecurity through hands-on cyber range labs
-- 🎯 **Target roles:** Cybersecurity GRC, compliance, fraud, due diligence, and risk analysis (remote, US Eastern hours)
+- 🎯 **Target roles:** Cybersecurity Analyst, Digital Forensics / Incident Response Analyst, Vulnerability Management Analyst (remote, US Eastern hours)
 - 🧠 **Strengths:** Internal controls, investigations, data accuracy, documenting findings, handling sensitive information
 - 🌍 **Languages:** English, Serbian, Croatian, Bosnian
 
