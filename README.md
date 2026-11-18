@@ -15,6 +15,7 @@
   <text x="500" y="105" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="700" fill="#ffffff">Suad Dreskovic</text>
   <text x="500" y="148" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#e2e8f0">Cybersecurity Portfolio</text>
 </svg>
+
 <h3 align="center">Cybersecurity Analyst — SOC | Threat Hunting | Detection Engineering | Vulnerability Management |  GRC</h3>
 
 <p align="center">
