@@ -58,7 +58,7 @@ Hands-on labs in a safe, authorized environment where I build, break, detect, an
 
 ## 🎓 Education
 
-- **Master of Public Administration, Inspection & Oversight** — John Jay College of Criminal Justice, CUNY (GPA 3.82). Specialization in investigations and operational inspection, covering fraud, waste, abuse, and corruption, and independent contractual inspection & oversight.
+- **Master of Public Administration, Inspection & Oversight** — John Jay College of Criminal Justice, CUNY (GPA 3.82). Specialization in Investigations and Operational Inspection, covering Fraud, Waste, Abuse, and Corruption, and Independent Contractual Inspection & Oversight.
 - **B.S. Criminal Justice** — John Jay College of Criminal Justice, CUNY. Minor in Law.
 
 ---
