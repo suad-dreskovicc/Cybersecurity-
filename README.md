@@ -80,6 +80,6 @@ Hands-on labs in a safe, authorized environment where I build, break, detect, an
 ## 📫 Connect With Me
 
 - **Email:** [suadeeeee@gmail.com](mailto:suadeeeee@gmail.com)
-- **LinkedIn:** [add your link](https://www.linkedin.com/in/your-linkedin)
+- **LinkedIn:** [https://www.linkedin.com/in/suadreskovic/](https://www.linkedin.com/in/your-linkedin)
 
 <sub>All practice is done in legal, authorized lab environments.</sub>
