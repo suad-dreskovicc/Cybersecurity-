@@ -33,6 +33,9 @@ Inadequate log size will cause the log to fill up quickly. This may prevent audi
     PS C:\> .\WN11-AU-000500.ps1
     Then rescan with Tenable ("kk-mde-win11 DISA STIG scan (Win 11)") and confirm WN11-AU-000500 shows Passed.
 #>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# YOUR CODE HERE
 
 $path = 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application'
 
@@ -42,3 +45,22 @@ New-ItemProperty -Path $path -Name 'MaxSize' -Value 32768 -PropertyType DWord -F
 
 # Show the result: expect MaxSize = 32768.
 Get-ItemProperty -Path $path -Name 'MaxSize' | Select-Object MaxSize
+
+# Remediate Application Event Log Registry Setting
+
+$RegistryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application"
+
+# Create registry path if it does not exist
+New-Item -Path $RegistryPath -Force | Out-Null
+
+# Set Application Event Log maximum size to 32768 KB
+New-ItemProperty -Path $RegistryPath `
+    -Name "MaxSize" `
+    -PropertyType DWord `
+    -Value 32768 `
+    -Force | Out-Null
+
+# Verify remediation
+Get-ItemProperty -Path $RegistryPath -Name "MaxSize"
+
+Write-Host "Application Event Log remediation completed."
