@@ -30,4 +30,48 @@ STIG ID: WN11-CC-000090  |  SRG: SRG-OS-000480-GPOS-00227 |  Severity: medium (C
     Then rescan with Tenable ("Suad-VM-Test" DISA STIG scan (Win 11)") and confirm WN11-CC-000090 shows Passed.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# ============================================================
+# STIG ID: WN11-CC-000090
+# Vulnerability ID: V-253373
+# Severity: Medium (CAT II)
+# Description: Configure registry policy processing
+# Purpose: Ensure Group Policy processes registry policies
+#          even when Group Policy objects have not changed.
+# ============================================================
 
+# Registry path
+$RegistryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Group Policy\{35378EAC-683F-11D2-A89A-00C04FBBCFA2}"
+
+# Registry value
+$ValueName = "NoGPOListChanges"
+
+# Required value: 0
+$RequiredValue = 0
+
+# Create registry key if it does not exist
+if (!(Test-Path $RegistryPath)) {
+    New-Item -Path $RegistryPath -Force | Out-Null
+}
+
+# Configure registry value
+New-ItemProperty -Path $RegistryPath `
+    -Name $ValueName `
+    -PropertyType DWORD `
+    -Value $RequiredValue `
+    -Force | Out-Null
+
+# Verify configuration
+$CurrentValue = Get-ItemPropertyValue `
+    -Path $RegistryPath `
+    -Name $ValueName
+
+if ($CurrentValue -eq $RequiredValue) {
+    Write-Host "[PASS] STIG WN11-CC-000090 successfully configured." -ForegroundColor Green
+}
+else {
+    Write-Host "[FAIL] STIG configuration was not applied." -ForegroundColor Red
+}
+
+# Refresh Group Policy
+gpupdate /force
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
