@@ -28,6 +28,7 @@ STIG ID: WN11-CC-000090  |  SRG: SRG-OS-000480-GPOS-00227 |  Severity: medium (C
     Run in an elevated (Administrator) PowerShell on the VM:
     PS C:\> .\WN11-CC-000090.ps1
     Then rescan with Tenable ("Suad-VM-Test" DISA STIG scan (Win 11)") and confirm WN11-CC-000090 shows Passed.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # ============================================================
