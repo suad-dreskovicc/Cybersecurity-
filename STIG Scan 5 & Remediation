@@ -28,6 +28,6 @@ STIG ID: WN11-AC-000010  |  SRG: SRG-OS-000021-GPOS-00005 |  Severity: medium (C
 
 .USAGE
     Run in an elevated (Administrator) PowerShell on the VM:
-    Configure the policy value for Computer Configuration >> Administrative Templates >> Windows Components >> App Privacy>>
-    "Let Windows apps activate with voice" to "Enabled" with Default for all Apps set to "Force Deny".  
+    Configure the policy value for Computer Configuration >> Windows Settings >> Security Settings >> Account Policies >> 
+    Account Lockout Policy >> "Account lockout threshold" to "3" or less invalid logon attempts (excluding "0" which is unacceptable). 
     Then rescan with Tenable ("Suad-VM-Test" DISA STIG scan (Win 11)") and confirm WN11-AC-000010 shows Passed.
