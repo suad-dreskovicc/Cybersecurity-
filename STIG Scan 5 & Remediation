@@ -1,1 +1,33 @@
+The number of allowed bad logon attempts must be configured to three or less.
+STIG ID: WN11-AC-000010  |  SRG: SRG-OS-000021-GPOS-00005 |  Severity: medium (CAT II)  |  CCI: CCI-000044 |  Vulnerability Id: V-253298
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<#
+.SYNOPSIS
+    Vulnerability Discussion
+    The account lockout feature, when enabled, prevents brute-force password attacks on the system. 
+    The higher this value is, the less effective the account lockout feature will be in protecting the local system. 
+    The number of bad logon attempts must be reasonably small to minimize the possibility of a successful password attack, 
+    while allowing for honest errors made during a normal user logon.
 
+.NOTES
+    Author          : Suad
+    LinkedIn        : https://www.linkedin.com/in/suadreskovic/
+    GitHub          : https://github.com/suad-dreskovicc
+    Date Created    : 2026-11-20
+    Last Modified   : 2026-11-20
+    Version         : 1.0
+    CVEs            : N/A
+    Plugin IDs      : N/A (Tenable compliance audit: DISA Microsoft Windows 11 STIG v2r1)
+    STIG-ID         : WN11-AC-000010
+
+.TESTED ON
+    Date(s) Tested  : 2026-11-20
+    Tested By       : Suad Dreskovic
+    Systems Tested  : Suad-VM-Test (Windows 11 Pro 25H2, Azure, Cyber Range 1)
+    PowerShell Ver. : 5.1
+
+.USAGE
+    Run in an elevated (Administrator) PowerShell on the VM:
+    Configure the policy value for Computer Configuration >> Administrative Templates >> Windows Components >> App Privacy>>
+    "Let Windows apps activate with voice" to "Enabled" with Default for all Apps set to "Force Deny".  
+    Then rescan with Tenable ("Suad-VM-Test" DISA STIG scan (Win 11)") and confirm WN11-AC-000010 shows Passed.
