@@ -1,9 +1,10 @@
 The Application event log size must be configured to 32768 KB or greater.
 STIG ID: WN11-AU-000500  |  SRG: SRG-OS-000341-GPOS-00132 |  Severity: medium (CAT II)  |  CCI: CCI-001849 |  Vulnerability Id: V-253337
-
-Vulnerability Discussion
-Inadequate log size will cause the log to fill up quickly. This may prevent audit events from being recorded properly and require frequent attention by administrative personnel.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Vulnerability Discussion
+Inadequate log size will cause the log to fill up quickly.
+This may prevent audit events from being recorded properly and require frequent attention by administrative personnel.
+
 <#
 .SYNOPSIS
     Sets the maximum size of the Windows Application event log to 32768 KB (32 MB) or greater, so events are not
