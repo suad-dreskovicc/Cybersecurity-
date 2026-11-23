@@ -32,7 +32,7 @@ The "Security" option for Telemetry configures the lowest amount of data, effect
 
 .CORRECTION
   
-    ConfigureD the policy value for Computer Configuration >> Administrative Templates >> Windows Components >> Data Collection and Preview Builds >> 
+    Configured the policy value for Computer Configuration >> Administrative Templates >> Windows Components >> Data Collection and Preview Builds >> 
     "Allow Diagnostic Data" to "Enabled" with "Send required diagnostic data" selected in "Options:".
     Then rescan with Tenable ("Suad-VM-Test DISA STIG scan (Win 11)") and confirm WN11-CC-000205 shows Passed.
 #>
