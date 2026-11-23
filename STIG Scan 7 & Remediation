@@ -13,15 +13,15 @@ STIG ID: WN11-CC-000205  |  SRG: SRG-OS-000205-GPOS-00083 |  Severity: medium (C
     Author          : Suad
     LinkedIn        : https://www.linkedin.com/in/suadreskovic/
     GitHub          : https://github.com/suad-dreskovicc
-    Date Created    : 2026-11-20
-    Last Modified   : 2026-11-20
+    Date Created    : 2026-11-23
+    Last Modified   : 2026-11-23
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A (Tenable compliance audit: DISA Microsoft Windows 11 STIG v2r1)
     STIG-ID         : WN11-CC-000205 
 
 .TESTED ON
-    Date(s) Tested  : 2026-11-20
+    Date(s) Tested  : 2026-11-23
     Tested By       : Suad Dreskovic
     Systems Tested  : Suad-VM-Test (Windows 11 Pro 25H2, Azure, Cyber Range 1)
     PowerShell Ver. : 5.1
