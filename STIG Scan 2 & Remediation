@@ -28,5 +28,6 @@ STIG ID: WN11-CC-000090  |  SRG: SRG-OS-000480-GPOS-00227 |  Severity: medium (C
 .CORRRECTION
     Configure the policy value for Computer Configuration >> Administrative Templates >> System >> Group Policy >> 
     "Configure registry policy processing" to "Enabled" and select the option "Process even if the Group Policy objects have not changed".
+    Then rescan with Tenable ("Suad-VM-Test" DISA STIG scan (Win 11)") and confirm WN11-CC-000090 shows Passed.
 
 #>
