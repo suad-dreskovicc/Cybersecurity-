@@ -28,4 +28,5 @@ STIG ID: WN11-CC-000315  |  SRG: SRG-OS-000362-GPOS-00149 |  Severity: high (CAT
     Configure the policy value for Computer Configuration >> Administrative Templates >> Windows Components >> 
     Windows Installer >> "Always install with elevated privileges" to "Disabled".  
     Then rescan with Tenable ("Suad-VM-Test" DISA STIG scan (Win 11)") and confirm WN11-CC-000315 shows Passed.
+
 #>
