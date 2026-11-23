@@ -29,4 +29,5 @@ STIG ID: WN11-CC-000366  |  SRG: SRG-OS-000095-GPOS-00049 |  Severity: medium (C
     Configure the policy value for Computer Configuration >> Administrative Templates >> Windows Components >> App Privacy>>
     "Let Windows apps activate with voice" to "Enabled" with Default for all Apps set to "Force Deny".  
     Then rescan with Tenable ("Suad-VM-Test" DISA STIG scan (Win 11)") and confirm WN11-CC-000366  shows Passed.
+
 #>
