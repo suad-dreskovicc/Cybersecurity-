@@ -1,17 +1,13 @@
 Windows Telemetry must not be configured to Full.
 STIG ID: WN11-CC-000205  |  SRG: SRG-OS-000205-GPOS-00083 |  Severity: medium (CAT II)  |  CCI: CCI-001312 |  Vulnerability Id: V-253393
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Vulnerability Discussion
-Some features may communicate with the vendor, sending system information or downloading data or components for the feature. 
-Limiting this capability will prevent potentially sensitive information from being sent outside the enterprise.
-The "Security" option for Telemetry configures the lowest amount of data, effectively none outside of the Malicious Software Removal Tool (MSRT), Defender, and telemetry client settings.
-"Basic" sends basic diagnostic and usage data and may be required to support some Microsoft services.
-"Enhanced" includes additional information on how Windows and apps are used and advanced reliability data. Windows Analytics can use a "limited enhanced" level to provide information such as health data for devices.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <#
 .SYNOPSIS
-    Sets the maximum size of the Windows Application event log to 32768 KB (32 MB) or greater, so events are not
-    overwritten before they can be collected and reviewed. Windows 11 twin of the course sample WN10-AU-000500.
+   Some features may communicate with the vendor, sending system information or downloading data or components for the feature. 
+    Limiting this capability will prevent potentially sensitive information from being sent outside the enterprise.
+    The "Security" option for Telemetry configures the lowest amount of data, effectively none outside of the Malicious Software Removal Tool (MSRT), Defender, and telemetry client settings.
+    "Basic" sends basic diagnostic and usage data and may be required to support some Microsoft services.
+    "Enhanced" includes additional information on how Windows and apps are used and advanced reliability data. Windows Analytics can use a "limited enhanced" level to provide information such as health data for devices.
 
 .NOTES
     Author          : Suad
