@@ -30,15 +30,7 @@ STIG ID: WN11-CC-000090  |  SRG: SRG-OS-000480-GPOS-00227 |  Severity: medium (C
     Then rescan with Tenable ("Suad-VM-Test" DISA STIG scan (Win 11)") and confirm WN11-CC-000090 shows Passed.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# ============================================================
-# STIG ID: WN11-CC-000090
-# Vulnerability ID: V-253373
-# Severity: Medium (CAT II)
-# Description: Configure registry policy processing
-# Purpose: Ensure Group Policy processes registry policies
-#          even when Group Policy objects have not changed.
-# ============================================================
+CORRRECTION
 
 # Registry path
 $RegistryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Group Policy\{35378EAC-683F-11D2-A89A-00C04FBBCFA2}"
