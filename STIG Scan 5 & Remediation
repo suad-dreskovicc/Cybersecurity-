@@ -26,8 +26,9 @@ STIG ID: WN11-AC-000010  |  SRG: SRG-OS-000021-GPOS-00005 |  Severity: medium (C
     Systems Tested  : Suad-VM-Test (Windows 11 Pro 25H2, Azure, Cyber Range 1)
     PowerShell Ver. : 5.1
 
-CORRECTION
-    Run in an elevated (Administrator) PowerShell on the VM:
+.CORRECTION
     Configure the policy value for Computer Configuration >> Windows Settings >> Security Settings >> Account Policies >> 
     Account Lockout Policy >> "Account lockout threshold" to "3" or less invalid logon attempts (excluding "0" which is unacceptable). 
     Then rescan with Tenable ("Suad-VM-Test" DISA STIG scan (Win 11)") and confirm WN11-AC-000010 shows Passed.
+
+#>
