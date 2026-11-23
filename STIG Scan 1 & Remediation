@@ -34,7 +34,7 @@ This may prevent audit events from being recorded properly and require frequent 
 #>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# YOUR CODE HERE
+CORRECTION
 
 $path = 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application'
 
