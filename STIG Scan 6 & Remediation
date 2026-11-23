@@ -1,1 +1,34 @@
+Credential Guard must be running on Windows 11 systems.
+STIG ID: WN11-CC-000075  |  SRG: SRG-OS-000480-GPOS-00227 |  Severity: high (CAT I)  |  CCI: CCI-000366 |  Vulnerability Id: V-253370
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Vulnerability Discussion
+Credential Guard uses virtualization-based security to protect information that could be used in credential theft attacks if compromised. 
+This authentication information, which was stored in the Local Security Authority (LSA) in previous versions of Windows, is isolated from the rest of operating system and can only be accessed by privileged system software.
 
+<#
+.SYNOPSIS
+    Sets the maximum size of the Windows Application event log to 32768 KB (32 MB) or greater, so events are not
+    overwritten before they can be collected and reviewed. Windows 11 twin of the course sample WN10-AU-000500.
+
+.NOTES
+    Author          : Suad
+    LinkedIn        : https://www.linkedin.com/in/suadreskovic/
+    GitHub          : https://github.com/suad-dreskovicc
+    Date Created    : 2026-11-20
+    Last Modified   : 2026-11-20
+    Version         : 1.0
+    CVEs            : N/A
+    Plugin IDs      : N/A (Tenable compliance audit: DISA Microsoft Windows 11 STIG v2r1)
+    STIG-ID         : WN11-CC-000075
+
+.TESTED ON
+    Date(s) Tested  : 2026-11-20
+    Tested By       : Suad Dreskovic
+    Systems Tested  : Suad-VM-Test (Windows 11 Pro 25H2, Azure, Cyber Range 1)
+    PowerShell Ver. : 5.1
+
+.USAGE
+    Run in an elevated (Administrator) PowerShell on the VM:
+    PS C:\> .\WN11-CC-000075.ps1
+    Then rescan with Tenable ("kk-mde-win11 DISA STIG scan (Win 11)") and confirm WN11-CC-000075 shows Passed.
+#>
