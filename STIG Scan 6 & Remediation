@@ -27,8 +27,8 @@ This authentication information, which was stored in the Local Security Authorit
     Systems Tested  : Suad-VM-Test (Windows 11 Pro 25H2, Azure, Cyber Range 1)
     PowerShell Ver. : 5.1
 
-.USAGE
-    Run in an elevated (Administrator) PowerShell on the VM:
-    PS C:\> .\WN11-CC-000075.ps1
+.CORRECTION
+    Configure the policy value for Computer Configuration >> Administrative Templates >> System >> 
+    Device Guard >> "Turn On virtualization-based Security" to "Enabled" with "Enabled with UEFI lock" selected for "Credential Guard Configuration:".
     Then rescan with Tenable ("kk-mde-win11 DISA STIG scan (Win 11)") and confirm WN11-CC-000075 shows Passed.
 #>
