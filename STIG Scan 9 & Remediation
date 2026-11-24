@@ -1,7 +1,8 @@
 STIG ID: WN11-CC-000044  |  SRG: SRG-OS-000095-GPOS-00049 |  Severity: medium (CAT II)  |  CCI: CCI-000381 |  Vulnerability Id: V-253361
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <#
-.Vulnerability Discussion
+
+.VULNERABILITY DISCUSSION
   Internet connection sharing makes it possible for an existing internet connection, such as through wireless, to be shared and used by other systems essentially creating a mobile hotspot.
   This exposes the system sharing the connection to others with potentially malicious purpose.
 
