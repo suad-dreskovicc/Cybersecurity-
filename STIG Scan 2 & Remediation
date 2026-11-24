@@ -3,8 +3,7 @@ STIG ID: WN11-CC-000090  |  SRG: SRG-OS-000480-GPOS-00227 |  Severity: medium (C
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <#
 
-.SYNOPSIS
-    Vulnerability Discussion 
+.VULNERABILITY DISCUSSION
     Enabling this setting and then selecting the "Process even if the Group Policy objects have not changed" option ensures that the policies will be reprocessed even if none have been changed.  
     This way, any unauthorized changes are forced to match the domain-based group policy settings again.
 
