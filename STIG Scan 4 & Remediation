@@ -2,7 +2,8 @@ Windows 11 must be configured to prevent Windows apps from being activated by vo
 STIG ID: WN11-CC-000366  |  SRG: SRG-OS-000095-GPOS-00049 |  Severity: medium (CAT II)  |  CCI: CCI-000381 |  Vulnerability Id: V-289260
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <#
-.SYNOPSIS
+
+.VULNERABILITY DISCUSSION
     Vulnerability Discussion
     It is detrimental for operating systems to provide, or install by default, functionality exceeding requirements or mission objectives. 
     These unnecessary capabilities or services are often overlooked and therefore, may remain unsecured. 
