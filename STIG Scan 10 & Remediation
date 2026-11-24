@@ -2,6 +2,7 @@ Bluetooth must be turned off unless approved by the organization.
 STIG ID: WN11-00-000210  |  SRG: SRG-OS-000095-GPOS-00049 |  Severity: medium (CAT II)  |  CCI: CCI-000381 |  Vulnerability Id: V-253291
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <#
+
 .VULNERABILITY DISCUSSION
     Sets the maximum size of the Windows Application event log to 32768 KB (32 MB) or greater, so events are not
     overwritten before they can be collected and reviewed. Windows 11 twin of the course sample WN10-AU-000500.
