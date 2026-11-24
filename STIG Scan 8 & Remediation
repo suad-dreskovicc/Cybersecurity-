@@ -1,7 +1,8 @@
 STIG ID: WN11-CC-000010  |  SRG: SRG-OS-000095-GPOS-00049 |  Severity: medium (CAT II)  |  CCI: CCI-000381 |  Vulnerability Id: V-253352
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <#
-.Vulnerability Discussion
+
+.VULNERABILITY DISCUSSION
    Slide shows that are displayed on the lock screen could display sensitive information to unauthorized personnel. Turning off this feature will limit access to the information to a logged on user.
 
 .NOTES
