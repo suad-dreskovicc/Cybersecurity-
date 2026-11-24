@@ -2,7 +2,8 @@ The number of allowed bad logon attempts must be configured to three or less.
 STIG ID: WN11-AC-000010  |  SRG: SRG-OS-000021-GPOS-00005 |  Severity: medium (CAT II)  |  CCI: CCI-000044 |  Vulnerability Id: V-253298
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <#
-.SYNOPSIS
+
+.VULNERABILITY DISCUSSION
     Vulnerability Discussion
     The account lockout feature, when enabled, prevents brute-force password attacks on the system. 
     The higher this value is, the less effective the account lockout feature will be in protecting the local system. 
