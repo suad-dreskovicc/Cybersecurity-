@@ -1,12 +1,8 @@
 STIG ID: WN11-AU-000500  |  SRG: SRG-OS-000341-GPOS-00132 |  Severity: medium (CAT II)  |  CCI: CCI-001849 |  Vulnerability Id: V-253337
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Vulnerability Discussion
-Inadequate log size will cause the log to fill up quickly.
-This may prevent audit events from being recorded properly and require frequent attention by administrative personnel.
-
 <#
 
-.SYNOPSIS
+.VULNERABILITY DISCUSSION
     Sets the maximum size of the Windows Application event log to 32768 KB (32 MB) or greater, so events are not
     overwritten before they can be collected and reviewed. Windows 11 twin of the course sample WN10-AU-000500.
 
